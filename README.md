@@ -1,2 +1,3 @@
 # php-mini-projects
-Small PHP scripts and web apps to practice server-side programming.
+This repository contains small PHP projects to practice server-side web development.  
+Projects include form handling, session management, and simple CRUD applications.
